@@ -1,6 +1,5 @@
 ﻿using Xunit;
 using Microsoft.EntityFrameworkCore;
-//using technical_tests_backend_ssr.Data;
 using technical_tests_backend_ssr.Models;
 using technical_tests_backend_ssr.Repositories;
 using System.Threading.Tasks;
